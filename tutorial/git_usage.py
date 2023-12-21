@@ -35,6 +35,7 @@ Git flow:
     3. COMMIT message es COMMIT
     4. PUSH-olod a lokal valtozasokat a remote repository-ba
 
-
+git config --global user.email "an.carde888@gmail.com"
+git config --global user.name "CzarDeNas"
 
 '''
